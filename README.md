@@ -1,2 +1,2 @@
 # TPEWEB2
-Salón de eventos Frontera Norte
+Salón de eventos "Frontera Norte"
